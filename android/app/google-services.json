@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376325510845",
+    "firebase_url": "https://movieticketlogin.firebaseio.com",
+    "project_id": "movieticketlogin",
+    "storage_bucket": "movieticketlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376325510845:android:9e90b36326365a329989d4",
+        "android_client_info": {
+          "package_name": "com.example.movie_ticket_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376325510845-jp6ba3g2m5gh5b9511fae860r3btdq9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_ticket_booking",
+            "certificate_hash": "eb06409b5c0a1abf78581b9f70da750bef481e71"
+          }
+        },
+        {
+          "client_id": "376325510845-gi694pt7r9f6hmn82rdggjbbhhu06muo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOIUBBKwoq8E-o1guR_8oaX9vFEknHwag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376325510845-gi694pt7r9f6hmn82rdggjbbhhu06muo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
